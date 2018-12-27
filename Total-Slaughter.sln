@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total-Slaughter.Plugins", "Total-Slaughter.Plugins.csproj", "{FE97FBAB-ABAB-B0CF-8C69-E3EEF40A7801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total-Slaughter", "Total-Slaughter.csproj", "{99075533-DE97-0071-FF59-619F7010844F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total-Slaughter.Editor", "Total-Slaughter.Editor.csproj", "{58B5E93E-C9C9-70F0-2CFC-7191DC7718CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE97FBAB-ABAB-B0CF-8C69-E3EEF40A7801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE97FBAB-ABAB-B0CF-8C69-E3EEF40A7801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE97FBAB-ABAB-B0CF-8C69-E3EEF40A7801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE97FBAB-ABAB-B0CF-8C69-E3EEF40A7801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99075533-DE97-0071-FF59-619F7010844F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99075533-DE97-0071-FF59-619F7010844F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99075533-DE97-0071-FF59-619F7010844F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99075533-DE97-0071-FF59-619F7010844F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B5E93E-C9C9-70F0-2CFC-7191DC7718CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B5E93E-C9C9-70F0-2CFC-7191DC7718CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B5E93E-C9C9-70F0-2CFC-7191DC7718CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B5E93E-C9C9-70F0-2CFC-7191DC7718CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
