@@ -1,0 +1,1871 @@
+fileFormatVersion: 2
+guid: 464941002907d9140b6291c03abe9704
+timeCreated: 1545944992
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bn Antebrazo Der
+    100002: Bn Antebrazo Der FK
+    100004: Bn Antebrazo Der IK
+    100006: Bn Antebrazo Izq
+    100008: Bn Antebrazo Izq FK
+    100010: Bn Antebrazo Izq IK
+    100012: Bn AntebrazoRoll Der 1
+    100014: Bn AntebrazoRoll Der 2
+    100016: Bn AntebrazoRoll Izq 1
+    100018: Bn AntebrazoRoll Izq 2
+    100020: Bn Anular Der 01
+    100022: Bn Anular Der 02
+    100024: Bn Anular Der 03
+    100026: Bn Anular Der 04
+    100028: Bn Anular Izq 01
+    100030: Bn Anular Izq 02
+    100032: Bn Anular Izq 03
+    100034: Bn Anular Izq 04
+    100036: Bn Brazo Der
+    100038: Bn Brazo Der FK
+    100040: Bn Brazo Der IK
+    100042: Bn Brazo Izq
+    100044: Bn Brazo Izq FK
+    100046: Bn Brazo Izq IK
+    100048: Bn Cabeza
+    100050: Bn Clavicula Der
+    100052: Bn Clavicula Izq
+    100054: Bn Columna 00
+    100056: Bn Columna 01
+    100058: Bn Columna 02
+    100060: Bn Columna 03
+    100062: Bn Corazon Der 01
+    100064: Bn Corazon Der 02
+    100066: Bn Corazon Der 03
+    100068: Bn Corazon Der 04
+    100070: Bn Corazon Izq 01
+    100072: Bn Corazon Izq 02
+    100074: Bn Corazon Izq 03
+    100076: Bn Corazon Izq 04
+    100078: Bn Cuello
+    100080: Bn Dedos Pie Der
+    100082: Bn Dedos Pie Izq
+    100084: Bn Femur Der
+    100086: Bn Femur Izq
+    100088: Bn Indice Der 01
+    100090: Bn Indice Der 02
+    100092: Bn Indice Der 03
+    100094: Bn Indice Der 04
+    100096: Bn Indice Izq 01
+    100098: Bn Indice Izq 02
+    100100: Bn Indice Izq 03
+    100102: Bn Indice Izq 04
+    100104: Bn Mano Der
+    100106: Bn Mano Izq
+    100108: "Bn Me\xF1ique Der 01"
+    100110: "Bn Me\xF1ique Der 02"
+    100112: "Bn Me\xF1ique Der 03"
+    100114: "Bn Me\xF1ique Der 04"
+    100116: "Bn Me\xF1ique Izq 01"
+    100118: "Bn Me\xF1ique Izq 02"
+    100120: "Bn Me\xF1ique Izq 03"
+    100122: "Bn Me\xF1ique Izq 04"
+    100124: "Bn Mu\xF1eca Der"
+    100126: "Bn Mu\xF1eca Der FK"
+    100128: "Bn Mu\xF1eca Der IK"
+    100130: "Bn Mu\xF1eca Izq"
+    100132: "Bn Mu\xF1eca Izq FK"
+    100134: "Bn Mu\xF1eca Izq IK"
+    100136: Bn Pelvis
+    100138: Bn Pie Der
+    100140: Bn Pie Izq
+    100142: Bn Pulgar Der 01
+    100144: Bn Pulgar Der 02
+    100146: Bn Pulgar Der 03
+    100148: Bn Pulgar Der 04
+    100150: Bn Pulgar Izq 01
+    100152: Bn Pulgar Izq 02
+    100154: Bn Pulgar Izq 03
+    100156: Bn Pulgar Izq 04
+    100158: Bn Tibia Der
+    100160: Bn Tibia Izq
+    100162: Bone006
+    100164: Bone008
+    100166: Bone013
+    100168: Bone014
+    100170: Bone016
+    100172: Bone016(mirrored)
+    100174: Ctrl Antebrazo Der FK
+    100176: Ctrl Antebrazo Izq FK
+    100178: Ctrl Anular Der
+    100180: Ctrl Anular Izq
+    100182: Ctrl Brazo Der FK
+    100184: Ctrl Brazo Izq FK
+    100186: Ctrl Cabeza
+    100188: Ctrl Caderas
+    100190: Ctrl Cintura
+    100192: Ctrl Clavicula Der
+    100194: Ctrl Clavicula Izq
+    100196: Ctrl Codo Der
+    100198: Ctrl Codo Izq
+    100200: Ctrl Columna 1
+    100202: Ctrl Columna 2
+    100204: Ctrl Corazon Der
+    100206: Ctrl Corazon Izq
+    100208: Ctrl Indice Der
+    100210: Ctrl Indice Izq
+    100212: Ctrl Mano Der FK
+    100214: Ctrl Mano Der IK
+    100216: Ctrl Mano Izq FK
+    100218: Ctrl Mano Izq IK
+    100220: "Ctrl Me\xF1ique Der"
+    100222: "Ctrl Me\xF1ique Izq"
+    100224: Ctrl Pie Der
+    100226: Ctrl Pie Izq
+    100228: Ctrl Principal
+    100230: Ctrl Pulgar Der
+    100232: Ctrl Pulgar Izq
+    100234: IK Chain001
+    100236: IK Chain002
+    100238: IK Chain003
+    100240: IK Chain004
+    100242: IK Chain005
+    100244: IK Chain006
+    100246: IK Chain007
+    100248: IK Chain008
+    100250: Jacky
+    100252: //RootNode
+    100254: Point Dedos Pie Der
+    100256: Point Dedos Pie Izq
+    100258: Point Giro Dedos Pie Der
+    100260: Point Giro Dedos Pie Izq
+    100262: Point Punta Pie Der
+    100264: Point Punta Pie Izq
+    100266: Point Talon Der
+    100268: Point Talon Izq
+    400000: Bn Antebrazo Der
+    400002: Bn Antebrazo Der FK
+    400004: Bn Antebrazo Der IK
+    400006: Bn Antebrazo Izq
+    400008: Bn Antebrazo Izq FK
+    400010: Bn Antebrazo Izq IK
+    400012: Bn AntebrazoRoll Der 1
+    400014: Bn AntebrazoRoll Der 2
+    400016: Bn AntebrazoRoll Izq 1
+    400018: Bn AntebrazoRoll Izq 2
+    400020: Bn Anular Der 01
+    400022: Bn Anular Der 02
+    400024: Bn Anular Der 03
+    400026: Bn Anular Der 04
+    400028: Bn Anular Izq 01
+    400030: Bn Anular Izq 02
+    400032: Bn Anular Izq 03
+    400034: Bn Anular Izq 04
+    400036: Bn Brazo Der
+    400038: Bn Brazo Der FK
+    400040: Bn Brazo Der IK
+    400042: Bn Brazo Izq
+    400044: Bn Brazo Izq FK
+    400046: Bn Brazo Izq IK
+    400048: Bn Cabeza
+    400050: Bn Clavicula Der
+    400052: Bn Clavicula Izq
+    400054: Bn Columna 00
+    400056: Bn Columna 01
+    400058: Bn Columna 02
+    400060: Bn Columna 03
+    400062: Bn Corazon Der 01
+    400064: Bn Corazon Der 02
+    400066: Bn Corazon Der 03
+    400068: Bn Corazon Der 04
+    400070: Bn Corazon Izq 01
+    400072: Bn Corazon Izq 02
+    400074: Bn Corazon Izq 03
+    400076: Bn Corazon Izq 04
+    400078: Bn Cuello
+    400080: Bn Dedos Pie Der
+    400082: Bn Dedos Pie Izq
+    400084: Bn Femur Der
+    400086: Bn Femur Izq
+    400088: Bn Indice Der 01
+    400090: Bn Indice Der 02
+    400092: Bn Indice Der 03
+    400094: Bn Indice Der 04
+    400096: Bn Indice Izq 01
+    400098: Bn Indice Izq 02
+    400100: Bn Indice Izq 03
+    400102: Bn Indice Izq 04
+    400104: Bn Mano Der
+    400106: Bn Mano Izq
+    400108: "Bn Me\xF1ique Der 01"
+    400110: "Bn Me\xF1ique Der 02"
+    400112: "Bn Me\xF1ique Der 03"
+    400114: "Bn Me\xF1ique Der 04"
+    400116: "Bn Me\xF1ique Izq 01"
+    400118: "Bn Me\xF1ique Izq 02"
+    400120: "Bn Me\xF1ique Izq 03"
+    400122: "Bn Me\xF1ique Izq 04"
+    400124: "Bn Mu\xF1eca Der"
+    400126: "Bn Mu\xF1eca Der FK"
+    400128: "Bn Mu\xF1eca Der IK"
+    400130: "Bn Mu\xF1eca Izq"
+    400132: "Bn Mu\xF1eca Izq FK"
+    400134: "Bn Mu\xF1eca Izq IK"
+    400136: Bn Pelvis
+    400138: Bn Pie Der
+    400140: Bn Pie Izq
+    400142: Bn Pulgar Der 01
+    400144: Bn Pulgar Der 02
+    400146: Bn Pulgar Der 03
+    400148: Bn Pulgar Der 04
+    400150: Bn Pulgar Izq 01
+    400152: Bn Pulgar Izq 02
+    400154: Bn Pulgar Izq 03
+    400156: Bn Pulgar Izq 04
+    400158: Bn Tibia Der
+    400160: Bn Tibia Izq
+    400162: Bone006
+    400164: Bone008
+    400166: Bone013
+    400168: Bone014
+    400170: Bone016
+    400172: Bone016(mirrored)
+    400174: Ctrl Antebrazo Der FK
+    400176: Ctrl Antebrazo Izq FK
+    400178: Ctrl Anular Der
+    400180: Ctrl Anular Izq
+    400182: Ctrl Brazo Der FK
+    400184: Ctrl Brazo Izq FK
+    400186: Ctrl Cabeza
+    400188: Ctrl Caderas
+    400190: Ctrl Cintura
+    400192: Ctrl Clavicula Der
+    400194: Ctrl Clavicula Izq
+    400196: Ctrl Codo Der
+    400198: Ctrl Codo Izq
+    400200: Ctrl Columna 1
+    400202: Ctrl Columna 2
+    400204: Ctrl Corazon Der
+    400206: Ctrl Corazon Izq
+    400208: Ctrl Indice Der
+    400210: Ctrl Indice Izq
+    400212: Ctrl Mano Der FK
+    400214: Ctrl Mano Der IK
+    400216: Ctrl Mano Izq FK
+    400218: Ctrl Mano Izq IK
+    400220: "Ctrl Me\xF1ique Der"
+    400222: "Ctrl Me\xF1ique Izq"
+    400224: Ctrl Pie Der
+    400226: Ctrl Pie Izq
+    400228: Ctrl Principal
+    400230: Ctrl Pulgar Der
+    400232: Ctrl Pulgar Izq
+    400234: IK Chain001
+    400236: IK Chain002
+    400238: IK Chain003
+    400240: IK Chain004
+    400242: IK Chain005
+    400244: IK Chain006
+    400246: IK Chain007
+    400248: IK Chain008
+    400250: Jacky
+    400252: //RootNode
+    400254: Point Dedos Pie Der
+    400256: Point Dedos Pie Izq
+    400258: Point Giro Dedos Pie Der
+    400260: Point Giro Dedos Pie Izq
+    400262: Point Punta Pie Der
+    400264: Point Punta Pie Izq
+    400266: Point Talon Der
+    400268: Point Talon Izq
+    2300000: Ctrl Anular Der
+    2300002: Ctrl Anular Izq
+    2300004: Ctrl Corazon Der
+    2300006: Ctrl Corazon Izq
+    2300008: Ctrl Indice Der
+    2300010: Ctrl Indice Izq
+    2300012: Ctrl Mano Der IK
+    2300014: Ctrl Mano Izq IK
+    2300016: "Ctrl Me\xF1ique Der"
+    2300018: "Ctrl Me\xF1ique Izq"
+    2300020: Ctrl Pie Der
+    2300022: Ctrl Pie Izq
+    2300024: Ctrl Pulgar Der
+    2300026: Ctrl Pulgar Izq
+    3300000: Ctrl Anular Der
+    3300002: Ctrl Anular Izq
+    3300004: Ctrl Corazon Der
+    3300006: Ctrl Corazon Izq
+    3300008: Ctrl Indice Der
+    3300010: Ctrl Indice Izq
+    3300012: Ctrl Mano Der IK
+    3300014: Ctrl Mano Izq IK
+    3300016: "Ctrl Me\xF1ique Der"
+    3300018: "Ctrl Me\xF1ique Izq"
+    3300020: Ctrl Pie Der
+    3300022: Ctrl Pie Izq
+    3300024: Ctrl Pulgar Der
+    3300026: Ctrl Pulgar Izq
+    4300000: Jacky
+    4300002: Ctrl Mano Der IK
+    4300004: Ctrl Mano Izq IK
+    4300006: "Ctrl Me\xF1ique Izq"
+    4300008: Ctrl Anular Izq
+    4300010: Ctrl Corazon Izq
+    4300012: Ctrl Indice Izq
+    4300014: Ctrl Pulgar Izq
+    4300016: Ctrl Pulgar Der
+    4300018: Ctrl Indice Der
+    4300020: Ctrl Corazon Der
+    4300022: Ctrl Anular Der
+    4300024: "Ctrl Me\xF1ique Der"
+    4300026: Ctrl Pie Izq
+    4300028: Ctrl Pie Der
+    7400000: Jacky_Idle
+    7400002: Jacky_Run
+    7400004: Jacky_Jump
+    9500000: //RootNode
+    13700000: Jacky
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jacky_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl Principal
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn AntebrazoRoll
+          Der 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn AntebrazoRoll
+          Der 2
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Bone016"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02/Bn Anular
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02/Bn Anular
+          Der 03/Bn Anular Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02/Bn
+          Corazon Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02/Bn
+          Corazon Der 03/Bn Corazon Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02/Bn Indice
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02/Bn Indice
+          Der 03/Bn Indice Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02/Bn Me\xF1ique Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02/Bn Me\xF1ique Der 03/Bn Me\xF1ique Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02/Bn Pulgar
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02/Bn Pulgar
+          Der 03/Bn Pulgar Der 04"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der FK/Bn Antebrazo Der FK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der FK/Bn Antebrazo Der FK/Bn
+          Mu\xF1eca Der FK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der IK/Bn Antebrazo Der IK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der IK/Bn Antebrazo Der IK/Bn
+          Mu\xF1eca Der IK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK/Ctrl Antebrazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK/Ctrl Antebrazo Der FK/Ctrl
+          Mano Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn AntebrazoRoll
+          Izq 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn AntebrazoRoll
+          Izq 2
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Bone016(mirrored)"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02/Bn Anular
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02/Bn Anular
+          Izq 03/Bn Anular Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02/Bn
+          Corazon Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02/Bn
+          Corazon Izq 03/Bn Corazon Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02/Bn Indice
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02/Bn Indice
+          Izq 03/Bn Indice Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02/Bn Me\xF1ique Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02/Bn Me\xF1ique Izq 03/Bn Me\xF1ique Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02/Bn Pulgar
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02/Bn Pulgar
+          Izq 03/Bn Pulgar Izq 04"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK/Bn Antebrazo Izq FK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK/Bn Antebrazo Izq FK/Bn
+          Mu\xF1eca Izq FK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK/Bn Antebrazo Izq IK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK/Bn Antebrazo Izq IK/Bn
+          Mu\xF1eca Izq IK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK/Ctrl Antebrazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK/Ctrl Antebrazo Izq FK/Ctrl
+          Mano Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello/Bn Cabeza
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello/Bn Cabeza/Bone006
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Ctrl Clavicula Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Ctrl Clavicula Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der/Bn Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der/Bn Dedos Pie Der/Bone013
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq/Bn Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq/Bn Dedos Pie Izq/Bone014
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bone008
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Cabeza
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Caderas
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Codo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Codo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Columna 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Columna 2
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Der IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Der IK/IK Chain008
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Izq IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Izq IK/IK Chain007
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Dedos Pie Der/IK Chain006
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der/IK Chain002
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der/IK Chain005
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Dedos Pie Izq/IK Chain004
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq/IK Chain001
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq/IK Chain003
+        weight: 1
+      - path: Jacky
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jacky_Run
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl Principal
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn AntebrazoRoll
+          Der 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn AntebrazoRoll
+          Der 2
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Bone016"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02/Bn Anular
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02/Bn Anular
+          Der 03/Bn Anular Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02/Bn
+          Corazon Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02/Bn
+          Corazon Der 03/Bn Corazon Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02/Bn Indice
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02/Bn Indice
+          Der 03/Bn Indice Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02/Bn Me\xF1ique Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02/Bn Me\xF1ique Der 03/Bn Me\xF1ique Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02/Bn Pulgar
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02/Bn Pulgar
+          Der 03/Bn Pulgar Der 04"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der FK/Bn Antebrazo Der FK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der FK/Bn Antebrazo Der FK/Bn
+          Mu\xF1eca Der FK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der IK/Bn Antebrazo Der IK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der IK/Bn Antebrazo Der IK/Bn
+          Mu\xF1eca Der IK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK/Ctrl Antebrazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK/Ctrl Antebrazo Der FK/Ctrl
+          Mano Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn AntebrazoRoll
+          Izq 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn AntebrazoRoll
+          Izq 2
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Bone016(mirrored)"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02/Bn Anular
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02/Bn Anular
+          Izq 03/Bn Anular Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02/Bn
+          Corazon Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02/Bn
+          Corazon Izq 03/Bn Corazon Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02/Bn Indice
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02/Bn Indice
+          Izq 03/Bn Indice Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02/Bn Me\xF1ique Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02/Bn Me\xF1ique Izq 03/Bn Me\xF1ique Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02/Bn Pulgar
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02/Bn Pulgar
+          Izq 03/Bn Pulgar Izq 04"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK/Bn Antebrazo Izq FK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK/Bn Antebrazo Izq FK/Bn
+          Mu\xF1eca Izq FK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK/Bn Antebrazo Izq IK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK/Bn Antebrazo Izq IK/Bn
+          Mu\xF1eca Izq IK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK/Ctrl Antebrazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK/Ctrl Antebrazo Izq FK/Ctrl
+          Mano Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello/Bn Cabeza
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello/Bn Cabeza/Bone006
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Ctrl Clavicula Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Ctrl Clavicula Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der/Bn Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der/Bn Dedos Pie Der/Bone013
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq/Bn Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq/Bn Dedos Pie Izq/Bone014
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bone008
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Cabeza
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Caderas
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Codo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Codo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Columna 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Columna 2
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Der IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Der IK/IK Chain008
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Izq IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Izq IK/IK Chain007
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Dedos Pie Der/IK Chain006
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der/IK Chain002
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der/IK Chain005
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Dedos Pie Izq/IK Chain004
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq/IK Chain001
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq/IK Chain003
+        weight: 1
+      - path: Jacky
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jacky_Jump
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl Principal
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn AntebrazoRoll
+          Der 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn AntebrazoRoll
+          Der 2
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Bone016"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02/Bn Anular
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Anular Der/Bn Anular Der 01/Bn Anular Der 02/Bn Anular
+          Der 03/Bn Anular Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02/Bn
+          Corazon Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Corazon Der/Bn Corazon Der 01/Bn Corazon Der 02/Bn
+          Corazon Der 03/Bn Corazon Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02/Bn Indice
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Indice Der/Bn Indice Der 01/Bn Indice Der 02/Bn Indice
+          Der 03/Bn Indice Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02/Bn Me\xF1ique Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Me\xF1ique Der/Bn Me\xF1ique Der 01/Bn Me\xF1ique Der
+          02/Bn Me\xF1ique Der 03/Bn Me\xF1ique Der 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02/Bn Pulgar
+          Der 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der/Bn Antebrazo Der/Bn Mu\xF1eca
+          Der/Bn Mano Der/Ctrl Pulgar Der/Bn Pulgar Der 01/Bn Pulgar Der 02/Bn Pulgar
+          Der 03/Bn Pulgar Der 04"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der FK/Bn Antebrazo Der FK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der FK/Bn Antebrazo Der FK/Bn
+          Mu\xF1eca Der FK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Bn Brazo Der IK/Bn Antebrazo Der IK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Der/Bn Brazo Der IK/Bn Antebrazo Der IK/Bn
+          Mu\xF1eca Der IK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK/Ctrl Antebrazo Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Der/Ctrl Brazo Der FK/Ctrl Antebrazo Der FK/Ctrl
+          Mano Der FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn AntebrazoRoll
+          Izq 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn AntebrazoRoll
+          Izq 2
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Bone016(mirrored)"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02/Bn Anular
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Anular Izq/Bn Anular Izq 01/Bn Anular Izq 02/Bn Anular
+          Izq 03/Bn Anular Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02/Bn
+          Corazon Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Corazon Izq/Bn Corazon Izq 01/Bn Corazon Izq 02/Bn
+          Corazon Izq 03/Bn Corazon Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02/Bn Indice
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Indice Izq/Bn Indice Izq 01/Bn Indice Izq 02/Bn Indice
+          Izq 03/Bn Indice Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02/Bn Me\xF1ique Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Me\xF1ique Izq/Bn Me\xF1ique Izq 01/Bn Me\xF1ique Izq
+          02/Bn Me\xF1ique Izq 03/Bn Me\xF1ique Izq 04"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02/Bn Pulgar
+          Izq 03"
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq/Bn Antebrazo Izq/Bn Mu\xF1eca
+          Izq/Bn Mano Izq/Ctrl Pulgar Izq/Bn Pulgar Izq 01/Bn Pulgar Izq 02/Bn Pulgar
+          Izq 03/Bn Pulgar Izq 04"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK/Bn Antebrazo Izq FK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq FK/Bn Antebrazo Izq FK/Bn
+          Mu\xF1eca Izq FK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK/Bn Antebrazo Izq IK
+        weight: 1
+      - path: "Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna
+          02/Bn Columna 03/Bn Clavicula Izq/Bn Brazo Izq IK/Bn Antebrazo Izq IK/Bn
+          Mu\xF1eca Izq IK"
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK/Ctrl Antebrazo Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Clavicula Izq/Ctrl Brazo Izq FK/Ctrl Antebrazo Izq FK/Ctrl
+          Mano Izq FK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello/Bn Cabeza
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Bn Cuello/Bn Cabeza/Bone006
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Ctrl Clavicula Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Columna 00/Bn Columna 01/Bn Columna 02/Bn
+          Columna 03/Ctrl Clavicula Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der/Bn Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Der/Bn Tibia Der/Bn Pie
+          Der/Bn Dedos Pie Der/Bone013
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq/Bn Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bn Femur Izq/Bn Tibia Izq/Bn Pie
+          Izq/Bn Dedos Pie Izq/Bone014
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Bn Pelvis/Bone008
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Cabeza
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Caderas
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Codo Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Codo Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Columna 1
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Columna 2
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Der IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Der IK/IK Chain008
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Izq IK
+        weight: 1
+      - path: Ctrl Principal/Ctrl Cintura/Ctrl Mano Izq IK/IK Chain007
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Dedos Pie Der/IK Chain006
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der/IK Chain002
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Der/Point Talon Der/Point Punta Pie Der/Point
+          Giro Dedos Pie Der/IK Chain005
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Dedos Pie Izq/IK Chain004
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq/IK Chain001
+        weight: 1
+      - path: Ctrl Principal/Ctrl Pie Izq/Point Talon Izq/Point Punta Pie Izq/Point
+          Giro Dedos Pie Izq/IK Chain003
+        weight: 1
+      - path: Jacky
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
